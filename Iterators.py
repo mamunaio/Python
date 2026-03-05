@@ -1,0 +1,12 @@
+# list = 1, 2, 3, 4, 5, "Mamun", "Rafi", "Sami", "Tanim", "Nabil"
+# x = iter(list)
+# print(next(x))
+# print(next(x))
+# print(next(x))
+# print(next(x))
+# print(next(x))
+# print(next(x))
+# print(next(x))
+# print(next(x))
+# print(next(x))
+# print(next(x))
